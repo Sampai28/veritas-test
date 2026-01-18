@@ -8,4 +8,4 @@ def logout(user_id):
 
 def signup(username, email):
     """Sign up a new user."""
-    return {"user_id": 12345678}
+    return {"user_id": 1234567812312312}
